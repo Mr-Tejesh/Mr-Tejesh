@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mr-Tejesh
-- 👀 I’m i̶n̶t̶e̶r̶e̶s̶t̶e̶d̶ crazy about electronics irrespective of field
+- 🤓 I’m crazy about electronics irrespective of field
 - 🌱 I’m currently learning Arm architecture
 - 💞️ I’m looking to collaborate on digital design , analog design and embedded systems
 - 📫 How to reach me mail: tejesh2001born@gmail.com
