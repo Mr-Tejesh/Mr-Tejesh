@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-Tejesh
-- 🤓 I’m crazy about electronics irrespective of field
-- 🌱 I’m currently learning Arm architecture
-- 💞️ I’m looking to collaborate on digital design , analog design and embedded systems
+- 🤓 I’m crazy about technology irrespective of field
+- 🌱 I’m currently learning Cloud and Web development
+- 💞️ I’m looking to collaborate on Web development , Automation testing and Cloud practices
 - 📫 How to reach me mail: tejesh2001born@gmail.com
 
 <!---
